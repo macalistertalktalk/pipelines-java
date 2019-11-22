@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tobymacalister/TobyOne/_apis/build/status/macalistertalktalk.pipelines-java?branchName=master)](https://dev.azure.com/tobymacalister/TobyOne/_build/latest?definitionId=8&branchName=master)
 
 # Contributing
 
